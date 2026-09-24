@@ -28,10 +28,10 @@ https://openhsv.readthedocs.io/en/latest/
 
 ## How to cite OpenHSV
 
-Kist AM, Dürr S, Schützenberger A, Döllinger M. OpenHSV, an Open Platform for Laryngeal High-Speed Videoendoscopy. _Scientific Reports_ (in press).
+Kist, A.M., Dürr, S., Schützenberger, A. et al. OpenHSV: an open platform for laryngeal high-speed videoendoscopy. Sci Rep 11, 13760 (2021). https://doi.org/10.1038/s41598-021-93149-0
 
 ## Contact
 
 Please get in touch with me:
 
-Andreas M Kist - me@anki.xyz 
+Andreas M Kist - andreas.kist@fau.de
